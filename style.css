@@ -1,0 +1,48 @@
+
+
+/* 
+ /// Section 01 
+.div1 {
+   float: left;
+    padding: 10px;
+    border: 3px solid #73AD21;
+  }
+  
+  .div2 {
+    padding: 10px;
+    border: 3px solid red;
+  }
+  
+  .div3 {
+    float: left;
+    padding: 10px;  
+    border: 3px solid #73AD21;
+  }
+  
+  .div4 {
+    padding: 10px;
+    border: 3px solid red;
+     // delete path left 
+    clear: left;
+  }
+  End Section 01;
+  */
+ 
+/* 
+/// Section 02;
+*{
+    box-sizing: border-box;
+    
+}
+.box{
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+*/
